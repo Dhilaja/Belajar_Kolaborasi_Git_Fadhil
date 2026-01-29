@@ -1,0 +1,8 @@
+# Ignore file macet & temporary
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+__pycache__/
+*.pyc
+.env
